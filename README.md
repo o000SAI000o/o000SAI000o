@@ -9,8 +9,7 @@
 
 📊 Working on Dashboards,reports , AI-powered applications, and innovative APIs – check out my repos to see my current projects!
 
-<h3 align="center">🚀 Student Developer | Coding Enthusiast</h3>
-<p align="center">
+<p align="right">
   <img src="https://cdn.jsdelivr.net/gh/rajput2107/rajput2107@master/Assets/Developer.gif" alt="coding student" width="300"/>
 </p>
 
