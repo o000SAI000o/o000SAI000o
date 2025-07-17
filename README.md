@@ -11,7 +11,7 @@
 
 
 ## 🌐 Socials:
-[![LeetCode](https://img.shields.io/badge/LeetCode-o000SAI000o-orange?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/o000SAI000o)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/o000SAI000o)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajeet-deshmane-b81a26259/)
 [![Email](https://img.shields.io/badge/Email-vishwajitdeshmane2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajitdeshmane2004@gmail.com)
 
