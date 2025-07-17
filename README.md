@@ -35,7 +35,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=o000SAI000o&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600)
 ![](https://nirzak-streak-stats.vercel.app/?user=o000SAI000o&theme=dark&hide_border=false&cache_seconds=3600)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=o000SAI000o&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o000SAI000o&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=o000SAI000o&theme=radical&no-frame=false&no-bg=true&margin-w=4)
