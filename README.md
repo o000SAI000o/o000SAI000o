@@ -26,18 +26,16 @@
   <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams" />
  ![Oracle VM](https://img.shields.io/badge/Oracle%20VM-F80000?style=for-the-badge&logo=virtualbox&logoColor=white) <img src="https://img.shields.io/badge/Git%20Bash-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git Bash" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /> <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 
-<span class="s1">
+
 
 
 # 📊 GitHub Stats:
 <!-- Tip: For accurate stats with private commits, host your own instance of github-readme-stats and use a GitHub token -->
 
-![](https://github-readme-stats.vercel.app/api?username=o000SAI000o&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600)<br/>
+![](https://github-readme-stats.vercel.app/api?username=o000SAI000o&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600)
 ![](https://nirzak-streak-stats.vercel.app/?user=o000SAI000o&theme=dark&hide_border=false&cache_seconds=3600)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=o000SAI000o&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o000SAI000o&layout=compact&theme=radical)
-
-</span>
 
 ## 🏆 GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=o000SAI000o&theme=radical&no-frame=false&no-bg=true&margin-w=4)
