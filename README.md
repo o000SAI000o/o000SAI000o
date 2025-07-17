@@ -9,6 +9,11 @@
 
 📊 Working on Dashboards,reports , AI-powered applications, and innovative APIs – check out my repos to see my current projects!
 
+<h3 align="center">🚀 Student Developer | Coding Enthusiast</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rajput2107/rajput2107@master/Assets/Developer.gif" alt="coding student" width="300"/>
+</p>
+
 
 ## 🌐 Socials:
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/o000SAI000o)
@@ -22,12 +27,6 @@
  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Oracle VM](https://img.shields.io/badge/Oracle%20VM-F80000?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 
-
-
-
-
-
- 
 # 📊 GitHub Stats:
 <!-- Tip: For accurate stats with private commits, host your own instance of github-readme-stats and use a GitHub token -->
 
