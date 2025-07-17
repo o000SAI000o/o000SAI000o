@@ -32,9 +32,8 @@
 <!-- Tip: For accurate stats with private commits, host your own instance of github-readme-stats and use a GitHub token -->
 
 ![](https://github-readme-stats.vercel.app/api?username=o000SAI000o&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600)
-![](https://nirzak-streak-stats.vercel.app/?user=o000SAI000o&theme=dark&hide_border=false&cache_seconds=3600)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=o000SAI000o&theme=dark&hide_border=false&cache_seconds=3600)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=o000SAI000o&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600)
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Student" width="300" height="210"/>
 
 ## 🏆 GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=o000SAI000o&theme=radical&no-frame=false&no-bg=true&margin-w=4)
