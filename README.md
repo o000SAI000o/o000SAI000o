@@ -49,7 +49,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=o000SAI000o&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🌟 Views
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=o000SAI000o&style=for-the-badge)
 
 
 
