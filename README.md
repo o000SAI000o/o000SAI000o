@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 [![LeetCode](https://img.shields.io/badge/LeetCode-o000SAI000o-orange?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/o000SAI000o)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@vishwajeet--deshmane--b81a26259-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajeet-deshmane-b81a26259/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajeet-deshmane-b81a26259/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwajitdeshmane2004@gmail.com) 
 
 # 💻 Tech Stack:
