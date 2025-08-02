@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="left" style="width: 100%" />
+</div>
+
 # 💫 About Me:
 👋 Hey, I'm **Vishwajeet Deshmane**, a passionate **Devops lover** and **AI/ML Enthusiast** who loves turning ideas into impactful software solutions.  
 
@@ -9,9 +13,9 @@
 
 📊 Working on Dashboards,reports , AI-powered applications, and innovative APIs – check out my repos to see my current projects!
 
-<p align="right">
+<!--- <p align="right">
   <img src="https://cdn.jsdelivr.net/gh/rajput2107/rajput2107@master/Assets/Developer.gif" alt="coding student" width="300"/>
-</p>
+</p> --->
 
 
 ## 🌐 Socials:
