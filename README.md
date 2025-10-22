@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="left" style="width: 100%" />
 </div>
 
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-ff69b4?style=for-the-badge)](#)
+![badge1](https://github.com/user-attachments/assets/2c4274b2-ccfb-4c2c-af7b-b7e4d80fb435)![badge2](https://github.com/user-attachments/assets/4868d3b1-133f-4225-9989-420c67ba7241)
 
 
 # 💫 About Me:
