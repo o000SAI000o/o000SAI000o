@@ -3,7 +3,7 @@
 </div>
 
 ---
-<img src="![badge1](https://github.com/user-attachments/assets/2c4274b2-ccfb-4c2c-af7b-b7e4d80fb435)!" alt="Ansible" />
+<img src="https://github.com/user-attachments/assets/2c4274b2-ccfb-4c2c-af7b-b7e4d80fb435" alt="hackoberfest-badge1" />
 [badge2](https://github.com/user-attachments/assets/4868d3b1-133f-4225-9989-420c67ba7241)
 
 
