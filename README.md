@@ -9,7 +9,11 @@
   <img src="https://github.com/user-attachments/assets/5f1cd4fd-65a8-4afa-837d-073b3d09f7b8"       alt="hackoberfest-badge1" height=100px width=100px />
   <img src="https://github.com/user-attachments/assets/3a0b327f-1310-44fa-84bb-df47a45547a0"       alt="hackoberfest-badge1" height=100px width=100px />
   <img src="https://github.com/user-attachments/assets/cd74bd36-f2c6-4539-b0cc-a26d5d7c8963"       alt="hackoberfest-badge1" height=100px width=100px />
-</span>
+  <img src="https://github.com/user-attachments/assets/82d51a8a-5abb-41d8-b7eb-f075f53c45c3"       alt="hackoberfest-badge1" height=100px width=100px />
+  <img src="https://github.com/user-attachments/assets/cc747d42-4e17-4b6e-8d36-9ddc972d17d0"       alt="hackoberfest-badge1" height=100px width=100px />
+  <img src="https://github.com/user-attachments/assets/699cb2df-3fca-4794-808d-ae82fdc7f076"       alt="hackoberfest-badge1" height=100px width=100px />
+  <img src="https://github.com/user-attachments/assets/9369a085-c69f-4fb0-b006-778086364317"       alt="hackoberfest-badge1" height=100px width=100px />
+
 
 # 💫 About Me:
 👋 Hey, I'm **Vishwajeet Deshmane**, a passionate **Devops lover** and **AI/ML Enthusiast** who loves turning ideas into impactful software solutions.  
