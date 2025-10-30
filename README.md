@@ -4,7 +4,7 @@
 
 ---
 <span>
-  <img src="https://github.com/user-attachments/assets/2c4274b2-ccfb-4c2c-af7b-b7e4d80fb435"       alt="hackoberfest-badge1" height=100px width=100px/>  
+  <img src="https://github.com/user-attachments/assets/2c4274b2-ccfb-4c2c-af7b-b7e4d80fb435"       alt="hackoberfest-badge1" height=100px width=100px />  
   <img src="https://github.com/user-attachments/assets/4868d3b1-133f-4225-9989-420c67ba7241"       alt="hackoberfest-badge1" height=100px width=100px />
   <img src="https://github.com/user-attachments/assets/5f1cd4fd-65a8-4afa-837d-073b3d09f7b8"       alt="hackoberfest-badge1" height=100px width=100px />
   <img src="https://github.com/user-attachments/assets/3a0b327f-1310-44fa-84bb-df47a45547a0"       alt="hackoberfest-badge1" height=100px width=100px />
